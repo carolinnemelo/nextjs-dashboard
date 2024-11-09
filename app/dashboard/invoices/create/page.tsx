@@ -16,7 +16,7 @@ export default async function Page() {
           },
         ]}
       />
-      <Form customers={customers}/>
+      <Form customers={customers} />
     </main>
   );
 }
